@@ -23,3 +23,12 @@
 
   
   - 풀 방식 : 옵저버에서 주제객체의 데이터를 가져가는 방식 
+
+
+## 옵저버 패턴 참고사이트
+
+  - 사이트1 : http://flowarc.tistory.com/entry/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%EC%98%B5%EC%A0%80%EB%B2%84-%ED%8C%A8%ED%84%B4Observer-Pattern
+  
+  - 사이트2 : http://jusungpark.tistory.com/8
+  
+  - 사이트3 : https://ko.wikipedia.org/wiki/%EC%98%B5%EC%84%9C%EB%B2%84_%ED%8C%A8%ED%84%B4
