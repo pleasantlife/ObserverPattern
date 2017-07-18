@@ -31,4 +31,4 @@
   
   - 사이트2 (디자인패턴-옵저버 패턴) : http://jusungpark.tistory.com/8
   
-  - 사이트3 () : https://ko.wikipedia.org/wiki/%EC%98%B5%EC%84%9C%EB%B2%84_%ED%8C%A8%ED%84%B4
+  - 사이트3 (위키피디아) : https://ko.wikipedia.org/wiki/%EC%98%B5%EC%84%9C%EB%B2%84_%ED%8C%A8%ED%84%B4
